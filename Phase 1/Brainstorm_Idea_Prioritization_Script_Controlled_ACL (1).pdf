@@ -1,0 +1,472 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 10 0 R 13 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 10424
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm  T* ET
+BT /F2 14 Tf 16.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 248.2318 781.8898 Tm (Ideation Phase) Tj T* ET
+BT 1 0 0 1 159.9408 761.8898 Tm (Brainstorm & Idea Prioritization Template) Tj T* ET
+0 0 0 RG
+1 w
+n 50 714.8898 495.2756 17 re S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 55 719.8898 Tm (Date) Tj T* ET
+n 297.6378 731.8898 m 297.6378 714.8898 l S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 302.6378 720.8898 Tm (01 October 2026) Tj T* ET
+n 50 697.8898 495.2756 17 re S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 55 702.8898 Tm (Team ID) Tj T* ET
+n 297.6378 714.8898 m 297.6378 697.8898 l S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+n 50 680.8898 495.2756 17 re S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 55 685.8898 Tm (Project Name) Tj T* ET
+n 297.6378 697.8898 m 297.6378 680.8898 l S
+BT /F1 7.5 Tf 9 TL ET
+0 0 0 rg
+BT 1 0 0 1 302.6378 686.8898 Tm (Script-Controlled ACL \226 Restrict Record Access Based on Field Value) Tj T* ET
+n 50 663.8898 495.2756 17 re S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 55 668.8898 Tm (Maximum Marks) Tj T* ET
+n 297.6378 680.8898 m 297.6378 663.8898 l S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 302.6378 669.8898 Tm (4 Marks) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 635.8898 Tm (Script-Controlled ACL Brainstorm & Idea Prioritization:) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 617.8898 Tm (Brainstorming gave our team a free and open environment to think creatively about how to restrict record) Tj T* ET
+BT 1 0 0 1 50 603.8898 Tm (access using a Script-Controlled ACL. Volume was prioritized over value, out-of-the-box ideas were welcomed) Tj T* ET
+BT 1 0 0 1 50 589.8898 Tm (and built upon, and every member collaborated to develop a rich set of solutions for checking field values and) Tj T* ET
+BT 1 0 0 1 50 575.8898 Tm (user conditions before granting access.) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 555.8898 Tm (We used this template to shape concepts for our project, where a custom ACL script checks the Branch field) Tj T* ET
+BT 1 0 0 1 50 541.8898 Tm (and the user's roles, and users can access a record only when the ACL script evaluates to true.) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 521.8898 Tm (Reference: ) Tj T* ET
+.066667 .333333 .8 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 101.69 521.8898 Tm (https://www.mural.co/templates/brainstorm-and-idea-prioritization) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 497.8898 Tm (Step-1: Team Gathering, Collaboration and Select the Problem Statement) Tj T* ET
+.952941 .952941 .952941 rg
+n 50 85.88976 148.5827 400 re f*
+.8 .8 .8 RG
+.5 w
+n 198.5827 485.8898 m 198.5827 85.88976 l S
+n 366.9764 485.8898 m 366.9764 85.88976 l S
+.121569 .541176 .682353 RG
+.8 w
+n
+124 435.8898 m
+124 449.1446 113.2548 459.8898 100 459.8898 c
+86.74517 459.8898 76 449.1446 76 435.8898 c
+76 422.6349 86.74517 411.8898 100 411.8898 c
+113.2548 411.8898 124 422.6349 124 435.8898 c
+S
+.121569 .541176 .682353 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 88.6975 431.8898 Tm (ACL) Tj T* ET
+BT /F2 14 Tf 16.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 62 345.8898 Tm (Script-Controlled) Tj T* ET
+BT /F2 14 Tf 16.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 62 327.8898 Tm (ACL brainstorm) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 62 307.8898 Tm (Our session to shape ideas for) Tj T* ET
+BT 1 0 0 1 62 298.8898 Tm (restricting record access based on field) Tj T* ET
+BT 1 0 0 1 62 289.8898 Tm (values, using a custom ACL script.) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 62 245.8898 Tm (10 minutes to prepare) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 62 233.8898 Tm (1 hour to collaborate) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 62 221.8898 Tm (4 team members participated) Tj T* ET
+.121569 .541176 .682353 rg
+n
+223.5827 463.8898 m
+223.5827 467.2035 220.8964 469.8898 217.5827 469.8898 c
+214.269 469.8898 211.5827 467.2035 211.5827 463.8898 c
+211.5827 460.5761 214.269 457.8898 217.5827 457.8898 c
+220.8964 457.8898 223.5827 460.5761 223.5827 463.8898 c
+f*
+BT /F2 7 Tf 8.4 TL ET
+1 1 1 rg
+BT 1 0 0 1 215.3827 461.3898 Tm (>) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 212.5827 443.8898 Tm (Before you collaborate) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 212.5827 432.8898 Tm (Preparation for our Script-Controlled ACL) Tj T* ET
+BT 1 0 0 1 212.5827 424.8898 Tm (session. Here's what we did to get going.) Tj T* ET
+BT /F2 6.5 Tf 7.8 TL ET
+.121569 .541176 .682353 rg
+BT 1 0 0 1 212.5827 405.8898 Tm (10 minutes) Tj T* ET
+.8 .8 .8 RG
+n 212.5827 393.8898 m 356.9764 393.8898 l S
+.466667 .466667 .466667 RG
+n 212.5827 365.8898 8 8 re S
+BT /F1 5.5 Tf 6.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 214.5827 367.8898 Tm (A) Tj T* ET
+BT /F2 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 228.5827 367.8898 Tm (Team gathering) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 228.5827 357.8898 Tm (Gather the team \(admins, developers,) Tj T* ET
+BT 1 0 0 1 228.5827 349.8898 Tm (testers\) and share the lab details: the) Tj T* ET
+BT 1 0 0 1 228.5827 341.8898 Tm (u_institution_details table and roles bb1 to) Tj T* ET
+BT 1 0 0 1 228.5827 333.8898 Tm (bb4.) Tj T* ET
+.466667 .466667 .466667 RG
+n 212.5827 309.8898 8 8 re S
+BT /F1 5.5 Tf 6.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 214.5827 311.8898 Tm (B) Tj T* ET
+BT /F2 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 228.5827 311.8898 Tm (Set the goal) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 228.5827 301.8898 Tm (Focus on how to restrict record access so) Tj T* ET
+BT 1 0 0 1 228.5827 293.8898 Tm (users see a record only when the ACL) Tj T* ET
+BT 1 0 0 1 228.5827 285.8898 Tm (script returns true.) Tj T* ET
+.466667 .466667 .466667 RG
+n 212.5827 261.8898 8 8 re S
+BT /F1 5.5 Tf 6.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 214.5827 263.8898 Tm (C) Tj T* ET
+BT /F2 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 228.5827 263.8898 Tm (Review ACL basics) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 228.5827 253.8898 Tm (Revisit how Read, Create, Write and) Tj T* ET
+BT 1 0 0 1 228.5827 245.8898 Tm (Delete ACLs, roles and data conditions) Tj T* ET
+BT 1 0 0 1 228.5827 237.8898 Tm (work in ServiceNow.) Tj T* ET
+.121569 .541176 .682353 rg
+n
+391.9764 463.8898 m
+391.9764 467.2035 389.2901 469.8898 385.9764 469.8898 c
+382.6627 469.8898 379.9764 467.2035 379.9764 463.8898 c
+379.9764 460.5761 382.6627 457.8898 385.9764 457.8898 c
+389.2901 457.8898 391.9764 460.5761 391.9764 463.8898 c
+f*
+BT /F2 7 Tf 8.4 TL ET
+1 1 1 rg
+BT 1 0 0 1 383.9764 461.3898 Tm (1) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.9764 443.8898 Tm (Define your problem statement) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.9764 432.8898 Tm (The problem we are solving, framed as a How Might) Tj T* ET
+BT 1 0 0 1 380.9764 424.8898 Tm (We statement. This is the focus of our brainstorm.) Tj T* ET
+BT /F2 6.5 Tf 7.8 TL ET
+.121569 .541176 .682353 rg
+BT 1 0 0 1 380.9764 393.8898 Tm (5 minutes) Tj T* ET
+.8 .8 .8 RG
+n 380.9764 381.8898 m 535.2756 381.8898 l S
+1 1 1 rg
+.733333 .733333 .733333 RG
+.6 w
+n 384.9764 295.8898 146.2992 72 re B*
+BT /F2 5 Tf 6 TL ET
+.121569 .541176 .682353 rg
+BT 1 0 0 1 390.9764 357.8898 Tm (PROBLEM) Tj T* ET
+BT /F2 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 390.9764 345.8898 Tm (How might we restrict access to records) Tj T* ET
+BT 1 0 0 1 390.9764 337.3898 Tm (using a script-controlled ACL that checks) Tj T* ET
+BT 1 0 0 1 390.9764 328.8898 Tm (field values and user conditions, so that) Tj T* ET
+BT 1 0 0 1 390.9764 320.3898 Tm (users can access a record only when the) Tj T* ET
+BT 1 0 0 1 390.9764 311.8898 Tm (ACL script evaluates to true?) Tj T* ET
+1 1 1 rg
+.733333 .733333 .733333 RG
+n 380.9764 145.8898 154.2992 90 re B*
+.121569 .541176 .682353 rg
+n
+468.126 235.8898 m
+468.126 241.4126 463.6488 245.8898 458.126 245.8898 c
+452.6031 245.8898 448.126 241.4126 448.126 235.8898 c
+448.126 230.3669 452.6031 225.8898 458.126 225.8898 c
+463.6488 225.8898 468.126 230.3669 468.126 235.8898 c
+f*
+BT /F2 7 Tf 8.4 TL ET
+.121569 .541176 .682353 rg
+BT 1 0 0 1 413.5885 213.8898 Tm (Key rules of brainstorming) Tj T* ET
+BT /F1 5.5 Tf 6.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 409.2145 204.8898 Tm (To run a smooth and productive session) Tj T* ET
+.121569 .541176 .682353 rg
+n
+395.9764 191.8898 m
+395.9764 193.5466 394.6332 194.8898 392.9764 194.8898 c
+391.3195 194.8898 389.9764 193.5466 389.9764 191.8898 c
+389.9764 190.2329 391.3195 188.8898 392.9764 188.8898 c
+394.6332 188.8898 395.9764 190.2329 395.9764 191.8898 c
+f*
+n
+465.126 191.8898 m
+465.126 193.5466 463.7828 194.8898 462.126 194.8898 c
+460.4691 194.8898 459.126 193.5466 459.126 191.8898 c
+459.126 190.2329 460.4691 188.8898 462.126 188.8898 c
+463.7828 188.8898 465.126 190.2329 465.126 191.8898 c
+f*
+BT /F1 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 399.9764 189.8898 Tm (Stay in topic.) Tj T* ET
+BT /F1 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 469.126 189.8898 Tm (Encourage wild ideas.) Tj T* ET
+.121569 .541176 .682353 rg
+n
+395.9764 176.8898 m
+395.9764 178.5466 394.6332 179.8898 392.9764 179.8898 c
+391.3195 179.8898 389.9764 178.5466 389.9764 176.8898 c
+389.9764 175.2329 391.3195 173.8898 392.9764 173.8898 c
+394.6332 173.8898 395.9764 175.2329 395.9764 176.8898 c
+f*
+n
+465.126 176.8898 m
+465.126 178.5466 463.7828 179.8898 462.126 179.8898 c
+460.4691 179.8898 459.126 178.5466 459.126 176.8898 c
+459.126 175.2329 460.4691 173.8898 462.126 173.8898 c
+463.7828 173.8898 465.126 175.2329 465.126 176.8898 c
+f*
+BT /F1 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 399.9764 174.8898 Tm (Defer judgment.) Tj T* ET
+BT /F1 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 469.126 174.8898 Tm (Listen to others.) Tj T* ET
+.121569 .541176 .682353 rg
+n
+395.9764 161.8898 m
+395.9764 163.5466 394.6332 164.8898 392.9764 164.8898 c
+391.3195 164.8898 389.9764 163.5466 389.9764 161.8898 c
+389.9764 160.2329 391.3195 158.8898 392.9764 158.8898 c
+394.6332 158.8898 395.9764 160.2329 395.9764 161.8898 c
+f*
+n
+465.126 161.8898 m
+465.126 163.5466 463.7828 164.8898 462.126 164.8898 c
+460.4691 164.8898 459.126 163.5466 459.126 161.8898 c
+459.126 160.2329 460.4691 158.8898 462.126 158.8898 c
+463.7828 158.8898 465.126 160.2329 465.126 161.8898 c
+f*
+BT /F1 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 399.9764 159.8898 Tm (Go for volume.) Tj T* ET
+BT /F1 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 469.126 159.8898 Tm (If possible, be visual.) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 302.6 702.8898 Tm
+(SWTID\0552026\0554457) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 12 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2575
+>>
+stream
+Gau0F>BAQ1&UsJXfV^Vfj"LTAhE#^!&uWubRS6Z7Sb(hWLkI$1'VQ/84RTEAJenu_Cb)oUZ,`Re@C__C5:gtP+N,AMs"/Bo+)g-:hZsc#[qd*;?uYuXrd&q=hkr_1Im4;(GX(Or2B25k1<PJA8@'S_Z93co*PAps`VpnV$[cd#XECS4h'IFt"c'9Z\$FijY=nZGW,@Z7hSSZpiV#2T4!9d+8Ie&1#Y>[8P)MkMA=ch/,S\[[%1h,$n$7Iu;%.Fc6mPA2UhMf9*[gQ%E=l+`PgJ4]4EOVZZX!F2Gt3H's1l9"c=XW921F.@GIlCA26M,q/M>Vh9cd#g6Sn%@F?TUCq(i@5>YKc`ngJXn1s3r;^n=!>"=>#)fYG]33L30qom058*7!RCBOiWd<;/7@%'PD/b?Nn9fa+]gX6uZ]JCeW_M\[rQeWdk-_L1)%*XH^`1ihKf]2Ee+W2^IVI(9"kS=5oMYu*3_p-&SE,F'JYRO!QWXLhMH(O(/E,/PJD8!+\'A;Lm5j=$LoGUj8$7$%o9\Ggl,T";\8J^H0EW<#IF#+NsV,$Z\WUCDN3BV,FL1[\g2*^q6,XN%_V^7PVqs-.-rA`[c?r<)geFY0[o]7mX,<=&n:F[F"%)r265^fVd]l=,,7G5:W+g!&uham2]["q"@sZB_G5-";7U^3f/M(Sa"gU-n61($UtB&@:U5e%H*+C_dHiaNq(gQoTm/^4U?5[mL%LUBA?BZQZn2Tdbos\7_eWKS;`()&SH!n519P'VA'ET-?=!S4De/1%)22-=A4jFVSJLjA*WX<#)9jWiHAdCX=ZR,a0-]eNP#^ZTa9K<,brh<@KNBf3:e?YW'alSHL`ZOQTeo4n6GT!VVLPa=.Yh4+-c6,"bB;k/<_iR/<X@f78A+f*:cX7Z"b\AAcI*1p;(T26`hKK1A7Vi=U.W)Yf<$R)",VQX\:1FslQfTGXN3FZm5/7%tb2B-b'3?>W,^bc%r)e5)PnYB:<1QtjVg@f7-)A'Qt(PGfS#I2K;n'PlQ*mHL5>'-nNNBn25bSu,]fHEYtVGfo%P]faA?&lIC@2:eZ$*nC61g85PQrc&Ln'&6_uo1BB$k%7a]Z7,BXDGE]IY.=S\!]E*lEd`rEo%fe5G5?KlCMI9ujn5K+XMRo)HS^q`FHj7n/Fmi/2%:mTE(iiaY'*P,.jLZ/p642d"PqSA(7jTg8rRoc3V9lsp8'CAY4RTY:R5/eT!ELTn]]AX=i69OHm9Q%OS#=H$n>?U%j`8aOF6fXS;$[@DUe32oCHO2S;!#FDrdarLni<q=V3%,60-4,0,gs-;r6MZXR.MH%u$)s(-Lhu2uJC'L-BMYP):\i5D`CL=eb@^!HC6">GX5!N3rhA-Y%#0YV>e%KST<B&p(uAZ$nZ2j"="W\/'NC>a@*O:aG:fI@-),>J8cMWl-]5UK`dUoVD5?,Zjk=Wp!-i$K<1s#LbmtLVkfi%No'=Jb(H'4]sfJagLc13X@]9Nf7*Zg<eiE<U5jmaZOJ9Sl4&*g5FJYE)<inc]p'#p!@*1:RjZ4oknY"dIQ!3hj:=kNk[:@MIY2iGEJOrl:8>X^aXH9pS>@Um2)4@<?";o;G?IRO6H/!E&0NjeACm%V)Y2AX[`cEJ]m-jDoPQInn"oAQYYrq3(S%-pf#([3o76<W?+/gb`hTR`*DE-e8?RJ!V`nU!g4cmF2V5"Bs0!h\>GkiAQ_]&qQfgdl-#Zfh6:Q*0YC&=AiD90B.Wc1RGH)ZLX,1(QJ9`'(sS+R2iK)ih!*O\h:R'DX(euBmn77O%*?H5DPGT3l6g4'/95p3IU4qV=^F/%@DqEXr.3VcQ8_?+Wb]WMN@F;b&?$3:G[JXbXE\4ncU-[#dOJq>@OLdoCuiEkDZhidZiE('a)rot6G0A[&*.E<&s_'?:6[j:dpG#TZ&^W'*#?8#P%,'bF-=G>3uR%I0lF&+l2u_F.W2+9E;.BEU+`4UQW@@_RGfj:AuYP':f!KcD^AS,pXTcCee4*Rd%Qm;YN:7&O+_R`6\h:19j'V1Aj:Q7F(Rscq.^baA2]i&9.V.gdO6ofGVU?_Kma5(\k"'+Q1ET*lt7mD>>[&/@!7LJgU<4pK/)#H-MZmc"/F/k.8A4UBhiYX87&M0,Rbm+UN"].M;Hu)b2^;mX5'Su4K.jkg<#:>OY7(KUSGIjLWe1s-:3.(*Vr7$Q\.,@--ft,b#?O66/G2rrRmM6Gsk.G*D3F;Y(p/-;$i9'fY7*87Iin`_b@f/HeWl1Bk)&Xl;Utfr&?88P>Rq;[%iYo2ruh.?jT97.A+SS]L?!6Yo&t2.(8`@4%lfna:iKk`Y(2PF*0E)Y+KEtgVkeO$s`WQKHj(:f\)Gap<:n=0\qV[`l4LN)HaTN^B.Mo[;(YQ0a2s7(mQ4(ou,A0XTO#Xj)a9g:O67E?"j7Ce+:!&lUc*>]aMfo.ucXH6,9+c()q-DT4h]ZbK5]U'<.>7fs9Z?e:/9D5FaU_>dp&SXZ'];ZC:b8C+=;C4LB.lPH$eAfM_CZa$Ve#/,8'(O3jV`55N!ZW-tX/&bSK`?dPRQ/F?#K9=,)Gs#IJ:qD5p;*Ck=`p`DmnO*g~>
+endstream
+endobj
+12 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 12 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 3129
+>>
+stream
+Gatm=gN)%<&q/A5b[^")-?Hr3C+GQc2CV_<Fq\)@I\B&(_M0<M&<u2QqE<X:J.P/\]Tt)b,rB5Z9_[f+%(/q,dJR-aK_Xe8I/f*?g5,'[cqZWArD*:^qL[fuB[(QJbog(MZb)n3HGK)D`"Z`S3Jm']q!LLVhd+noipF$XLu5e@m@(cbn"OaSm432T+*%7JOJFegLFf6F>/qar8B,sKf\;<l6k#qXDTYn>7ThBlQ<)b=+\Ce/%u7p#$Z?"Z9V/q!Ze=VoMm7L.SrWnE9_3Wki/W:sm'Q1/UKrkckPMA6<j,$j75A5=X9q>TkK%sM-;7IgNqRNM.h+J+Bi#XlSq^'L-5n5Sf>i.4G[KXl>WT\!Hf'[o?>RR>VQ9$ZBXd![G0u4[-^r:cg\$JA0/i3GZb6sO[X2+u9?Afj'+]4eMnAYV.b"5ubdlu,V<D-gXK,r9"0/><`<,'0?pK"MoD-sRQ>t\`=''7J'YCs16fH@#Z!GWT=4fk2Bas.*peZ2/9i_4oI?76a*2Fsg`6$//E7(H:(j@Zu;.A!jpO0`EH[?Ces8-.V[d8`pR'I=\H"eJ5gF-9a&"&KCZ<7%g2ZUYJ"&Lh+/qadiF^q?iAD$/J$Y-FlS)LJ53*LA%=@O,eU;al-g*Ab2jq%d;=?W<OO(F!@"V*fiGQPeKBnW*C%N$ScZX;&i<6b***m4h569k2JrIT<jht5"F\A4RnrXEa%;WYf0n/3k^Ojt+;groc_nApN@!W;.?/](-tPn"`<=e)?VYVL!K0Ua1J\0/,%/21*/&Zh9A,L_bT!A8taj/U+.K(@>NcgMHW"t:?;.L/`N7jZ#"/"L^8"W<Cc=rBJ+g3C+]9TMu9GX)6Bn;X+9FmoNi]TR[T6q)W$b@JbYd1`2G;TBVGO=9M43gc(U9#>pgU93GLR8!%B6h!CJ+:ofG#tnA+XO76N0Z$9)Jj>F?8ej0WZ)E.)-Q*<.(18D,12'=MZGlmmJ\S.3&HGM7'W'5hM?OM%^bAp_U6Zi8G$1,Q7#m2`!cc6^,0.N=.?W_S<sTE#aO0K5;<(KkFCMC(4P@Pu:b;/^;<(Jp1)o(>@`G)A\BIq+8Ba'/BZC2f1#opeJo!E9'aI!'0(:)_j#h.Sq7T]pN<@#$]4V.AiuD3*o*DKi%d>L`A6D1diIFeQ(7ZO_*1Y_"?Nbp'Q1W$&NdMG2+BL'_YXFJW&TPo&L=pgiVA5/9b`$[hD0W^+AmkS=1b[gU);ohcL*73B,,g<dTCG<u*s.La9FUHjpiU+RYYc*]?8=5iL)c@(,UN^5?YO[[p^&">^kMS%:s55o.<m!\_KcRYa=CjlBBhItY[0+C#hQl;_YKE9RLq2F5(+.2erjT3N&"QH1K]QE4W52('+;kka;<mNX<Y#!4m89$E4A>eH^)UYCtX@.eNU:S/']2=VSYakciCN%-Lh_u#sePi_n"DIOlWb7OEGEuKOceHVI0GPO4bZ!Uqqo*4LNm6A-H'k?n_uX*gT,4N_U$S%?E<5_^lE"!Q"1<09O=G""^NHcEg1\jg:P&e(@5g'3iHA4ZJ'YPkW,27h3Y0pZP6C5Vc/jo*[;qAIhBpMBg<\ffbWe+I"#,KS5=Q(YFB4Qo#CWm*im)":,*.SD8(D"._H=2%1fS'7.R<K\Y$qQ;os8Hcp+ZP#&?ONi\2P9:I#uaMZfe(`r.E*nn_+3?',I,5?:g!U!-@<D6Kb3e@YMQA7^-,gqGg0Kd$=rFDKr0*i0C_kn'f_/Nl0'!]O<""/9%RFetP-8@m4:N0m/O\,]g;GOl6/@@fs\O"$\^lOK+Cpq:3+F?*1c>ea5:d2Ir6qU]V'YKSrPF8[T]nXTS5f=<+<tR,@S1A(2:`YHiM%V:A*b;3Y-)rBo6uML[?,:==Kp%(JQ3GJ?*#^U7$^_j.#E@S\#^4P)?jQHj0;tqaU@o3+BBk>Rc.Jp@l;EJ1o?I.In:@aP+alFoeCBD.J1j'(R*at<-n-QO`a^e,dRr!s[+4ON9mjWA9?mE`eaD$^nYm;IG)KD8l#5=)0:'jtePuE')Y1>SQsG2e\t-Tff:XDZ3g&#Cc25BY]Be]Xd'`VU39p-cQi[28`]US]/6+MGOA'<SqCd4YB\%_2s3-,ZQ][/]ec#RC^:qG*B3jtLA>NlnrT.uB.2J\"$*@EUF9]U\FhOc`r=@oJGLt(DKBj7I5Q)nP7dp>njrit?q=3#*-LHY2bF/(rZ&^kZ8`T0Qpi@rd9t0HGLth(SQ?K[7YQaB7DAb#Og&^7XJi+.2!FTJr$#ttm$Ci%5)2]ef/^9%cbKVM/2"E[oQ]KE%>o^p"5J;O,^1?e2F>6Q#:=KI48B20T.=SG/3:Bi^g&'7]e,EA0l,.dd=g&V1bNCBe4_82'@e\WAZBRh@QbmilPi@+Le*>h06uMaCVcD_ZaEDm"<Sc6V+1i>^a\gk2r:q:G,,:r:KNT`foS^F!hi#*e-ZP.p2J5/-KWLU\)5(`RbD'nq?9g_mHB=?H1Dkb$!ZFfmh:G3&f^9dlbC:=V[tgPf8>D#44aBqDYso4/[l7#=^FG&h-fVq6ksC9%[j^olqGAntK(p=He:nA2jH1K)=mpPB\jQ9iFj43A7R*KC%SlhC>HRYCqPA;o4pssV)7hi^,+X>+/I!Y#*p[^qDN?G!O/J[j:R^r)9$R(ld01$j+R#jPCZ.fOKg3>82+'ksqjaV&GmNet3CI/;ia$mUQM%\cQY-T!3RJr.XX)>]d`PZ!k9/<aCLo&.7pdBPLIm@Fn(VG'DX5:?R5DdEE&@=LUgM`P]'i;XnE7ORRel,f<-/o"cXG,Gjhq"n202n&CKF=,GVVu8aBL9?\"?h\+"ucA3.'U`orMD]'H`%,GXHs3Ibufi^@'RE`K1%DGK)FQSt=KAY.ei>LUh#Be7c@e*Rl4VZ6iQo.eOsN&[RBoS'']Td*"<%T\7[Y5&'mhp"7u$lr,!N]70Y3=*0O:Tq\+6h:#q\l*[L!7.3ZJkifQi=7BlWc_N(G$aXb^RXR227JVC[F_H+t>_R[H&]6,-nuTtE?T4Y2htQ><^[4Z!!_kI4>dnoYA'Zj9cKLVl`?4dJ*<S@bZ!3b[D&1>0r:oOdYTL?3@V>frKmD0dM:+t$$N$W5&]a:[V/W==+>r0&2Fm.cQkfV2n\rKI!:#k5YQ~>
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000127 00000 n 
+0000000176 00000 n 
+0000000429 00000 n 
+0000010906 00000 n 
+0000011013 00000 n 
+0000011120 00000 n 
+0000011232 00000 n 
+0000011347 00000 n 
+0000011549 00000 n 
+0000014217 00000 n 
+0000014269 00000 n 
+0000014471 00000 n 
+trailer
+<<
+/Size 15
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+17693
+%%EOF

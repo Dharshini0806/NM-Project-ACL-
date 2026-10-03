@@ -1,0 +1,615 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 9 0 R 12 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 9891
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 46 517.2756 cm
+q
+BT 1 0 0 1 0 22 Tm 297.1399 0 Td 18 TL /F2 14 Tf 0 0 0 rg (Project Design Phase-II) Tj  T* -57.56102 0 Td (Technology Stack \(Architecture & Stack\)) Tj T* -239.5789 0 Td ET
+Q
+Q
+q
+1 0 0 1 46 507.2756 cm
+Q
+q
+1 0 0 1 120.9449 441.2756 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246 51.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (31 January 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Team ID) Tj T* ET
+Q
+Q
+BT 1 0 0 1 246 37.25 Tm  T* ET
+q
+1 0 0 1 6 18.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Project Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246 18.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Script-Controlled ACL \226 Restrict Record Access Based on Field Value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Maximum Marks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246 2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (4 Marks) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+1 w
+n 0 66 m 600 66 l S
+n 0 0 m 600 0 l S
+n 0 0 m 0 66 l S
+n 600 0 m 600 66 l S
+n 0 49.5 m 600 49.5 l S
+n 0 33 m 600 33 l S
+n 0 16.5 m 600 16.5 l S
+n 240 0 m 240 66 l S
+Q
+Q
+Q
+q
+1 0 0 1 46 419.2756 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Technical Architecture:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 401.2756 cm
+q
+BT 1 0 0 1 0 3.5 Tm 14 TL /F1 10.5 Tf 0 0 0 rg (The Deliverable shall include the architectural diagram as below and the information as per the table1 & table 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 397.2756 cm
+Q
+q
+1 0 0 1 46 383.2756 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Example: Script-controlled ACL for restricting record access based on field value \(ServiceNow\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 377.2756 cm
+Q
+q
+.76 0 0 .76 46 115.0756 cm
+.901961 .933333 .952941 rg
+.615686 .705882 .768627 RG
+n 195 20 370 300 re B*
+.533333 .533333 .533333 RG
+[3 3] 0 d
+n 190 15 m 190 330 l S
+n 570 15 m 570 330 l S
+[] 0 d
+.070588 .12549 .180392 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 83.1935 325 Tm (USER) Tj T* ET
+BT 1 0 0 1 280.3587 325 Tm (SERVICENOW CLOUD INSTANCE \(Now Platform\)) Tj T* ET
+BT 1 0 0 1 651.0728 325 Tm (ADMIN) Tj T* ET
+.658824 .847059 .917647 rg
+.184314 .309804 .435294 RG
+1 w
+n
+35 250 m
+155 250 l
+157.764 250 160 252.236 160 255 c
+160 290 l
+160 292.764 157.764 295 155 295 c
+35 295 l
+32.236 295 30 292.764 30 290 c
+30 255 l
+30 252.236 32.236 250 35 250 c
+h
+B*
+.070588 .12549 .180392 rg
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 86.02825 279.5 Tm (User) Tj T* ET
+BT 1 0 0 1 55.7895 269 Tm (\(EEE User bb1-bb4 /) Tj T* ET
+BT 1 0 0 1 61.70125 258.5 Tm (User without role\)) Tj T* ET
+1 1 1 rg
+.6 .6 .6 RG
+n 10 30 172 85 re B*
+.070588 .12549 .180392 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 16 102 Tm (Notes) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 16 90 Tm (Infrastructure: Cloud \(ServiceNow instance\)) Tj T* ET
+BT 1 0 0 1 16 79 Tm (Local: web browser only) Tj T* ET
+BT 1 0 0 1 16 68 Tm (External interfaces: None) Tj T* ET
+BT 1 0 0 1 16 57 Tm (Machine learning model: Not applicable) Tj T* ET
+BT 1 0 0 1 16 46 Tm (Data storage: Instance database) Tj T* ET
+.658824 .847059 .917647 rg
+.184314 .309804 .435294 RG
+1 w
+n
+220 250 m
+340 250 l
+342.764 250 345 252.236 345 255 c
+345 290 l
+345 292.764 342.764 295 340 295 c
+220 295 l
+217.236 295 215 292.764 215 290 c
+215 255 l
+215 252.236 217.236 250 220 250 c
+h
+B*
+.070588 .12549 .180392 rg
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 258.7457 274.5 Tm (Platform UI) Tj T* ET
+BT 1 0 0 1 245.2903 264 Tm (\(List / Form views\)) Tj T* ET
+.658824 .847059 .917647 rg
+.184314 .309804 .435294 RG
+1 w
+n
+420 250 m
+540 250 l
+542.764 250 545 252.236 545 255 c
+545 290 l
+545 292.764 542.764 295 540 295 c
+420 295 l
+417.236 295 415 292.764 415 290 c
+415 255 l
+415 252.236 417.236 250 420 250 c
+h
+B*
+.070588 .12549 .180392 rg
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 449.0515 274.5 Tm (Authentication &) Tj T* ET
+BT 1 0 0 1 458.036 264 Tm (Role Check) Tj T* ET
+.788235 .909804 .768627 rg
+.184314 .309804 .435294 RG
+1 w
+n
+420 140 m
+540 140 l
+542.764 140 545 142.236 545 145 c
+545 195 l
+545 197.764 542.764 200 540 200 c
+420 200 l
+417.236 200 415 197.764 415 195 c
+415 145 l
+415 142.236 417.236 140 420 140 c
+h
+B*
+.070588 .12549 .180392 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 427.76 177 Tm (Script-Controlled ACL Engine) Tj T* ET
+BT 1 0 0 1 427.536 166.5 Tm (Read / Create / Write / Delete) Tj T* ET
+BT 1 0 0 1 427.532 156 Tm (\(gs.hasRole + Branch = EEE\)) Tj T* ET
+.658824 .847059 .917647 rg
+.184314 .309804 .435294 RG
+n 215 150 130 50 re B*
+n 237 150 m 237 200 l S
+.070588 .12549 .180392 rg
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 220.5685 172 Tm (D1) Tj T* ET
+BT 1 0 0 1 258.6405 177 Tm (Institution Details) Tj T* ET
+BT 1 0 0 1 250.846 166.5 Tm (\(u_institution_details\)) Tj T* ET
+.658824 .847059 .917647 rg
+.184314 .309804 .435294 RG
+n 215 50 130 50 re B*
+n 237 50 m 237 100 l S
+.070588 .12549 .180392 rg
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 220.5685 72 Tm (D2) Tj T* ET
+BT 1 0 0 1 254.6285 82 Tm (Roles & ACL Rules) Tj T* ET
+BT 1 0 0 1 252.7373 71.5 Tm (\(sys_user_has_role,) Tj T* ET
+BT 1 0 0 1 258.411 61 Tm (sys_security_acl\)) Tj T* ET
+.956863 .780392 .764706 rg
+.184314 .309804 .435294 RG
+1 w
+n
+420 50 m
+540 50 l
+542.764 50 545 52.236 545 55 c
+545 90 l
+545 92.764 542.764 95 540 95 c
+420 95 l
+417.236 95 415 92.764 415 90 c
+415 55 l
+415 52.236 417.236 50 420 50 c
+h
+B*
+.070588 .12549 .180392 rg
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 449.2937 74.5 Tm (Access Denied /) Tj T* ET
+BT 1 0 0 1 440.084 64 Tm (No records to display) Tj T* ET
+.658824 .847059 .917647 rg
+.184314 .309804 .435294 RG
+1 w
+n
+605 250 m
+725 250 l
+727.764 250 730 252.236 730 255 c
+730 290 l
+730 292.764 727.764 295 725 295 c
+605 295 l
+602.236 295 600 292.764 600 290 c
+600 255 l
+600 252.236 602.236 250 605 250 c
+h
+B*
+.070588 .12549 .180392 rg
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 639.9675 274.5 Tm (Administrator) Tj T* ET
+BT 1 0 0 1 618.4752 264 Tm (\(admin / security_admin\)) Tj T* ET
+.658824 .847059 .917647 rg
+.184314 .309804 .435294 RG
+1 w
+n
+605 140 m
+725 140 l
+727.764 140 730 142.236 730 145 c
+730 195 l
+730 197.764 727.764 200 725 200 c
+605 200 l
+602.236 200 600 197.764 600 195 c
+600 145 l
+600 142.236 602.236 140 605 140 c
+h
+B*
+.070588 .12549 .180392 rg
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 636.185 177 Tm (Admin Console) Tj T* ET
+BT 1 0 0 1 624.3785 166.5 Tm (Users, Roles, Tables,) Tj T* ET
+BT 1 0 0 1 631.221 156 Tm (ACL configuration) Tj T* ET
+.658824 .847059 .917647 rg
+.184314 .309804 .435294 RG
+1 w
+n
+605 50 m
+725 50 l
+727.764 50 730 52.236 730 55 c
+730 90 l
+730 92.764 727.764 95 725 95 c
+605 95 l
+602.236 95 600 92.764 600 90 c
+600 55 l
+600 52.236 602.236 50 605 50 c
+h
+B*
+.070588 .12549 .180392 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 639.656 74.5 Tm (Impersonation) Tj T* ET
+BT 1 0 0 1 613.432 64 Tm (\(Verify as EEE User / Admin\)) Tj T* ET
+.184314 .309804 .435294 RG
+1 w
+n 160 272 m 215 272 l
+S
+.184314 .309804 .435294 rg
+n 215 272 m 209.4736 274.3365 l 209.4736 269.6635 l h
+f*
+.070588 .12549 .180392 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 172.3663 278 Tm (1 request) Tj T* ET
+.184314 .309804 .435294 RG
+1 w
+n 215 258 m 160 258 l
+S
+.184314 .309804 .435294 rg
+n 160 258 m 165.5264 255.6635 l 165.5264 260.3365 l h
+f*
+.070588 .12549 .180392 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 175.7038 247 Tm (6 result) Tj T* ET
+.184314 .309804 .435294 RG
+1 w
+n 345 272 m 415 272 l
+S
+.184314 .309804 .435294 rg
+n 415 272 m 409.4736 274.3365 l 409.4736 269.6635 l h
+f*
+.070588 .12549 .180392 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 356.5512 278 Tm (2 login + roles) Tj T* ET
+.184314 .309804 .435294 RG
+1 w
+n 480 250 m 480 200 l
+S
+.184314 .309804 .435294 rg
+n 480 200 m 482.3365 205.5264 l 477.6635 205.5264 l h
+f*
+.070588 .12549 .180392 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 492.1775 226 Tm (3 user + roles) Tj T* ET
+.184314 .309804 .435294 RG
+1 w
+n 415 188 m 345 188 l
+S
+.184314 .309804 .435294 rg
+n 345 188 m 350.5264 185.6635 l 350.5264 190.3365 l h
+f*
+.070588 .12549 .180392 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 357.1775 194 Tm (4 script = true) Tj T* ET
+.184314 .309804 .435294 RG
+1 w
+n 280 200 m 280 250 l
+S
+.184314 .309804 .435294 rg
+n 280 250 m 277.6635 244.4736 l 282.3365 244.4736 l h
+f*
+.070588 .12549 .180392 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 284.37 226 Tm (5 records) Tj T* ET
+.184314 .309804 .435294 RG
+1 w
+n 480 140 m 480 95 l
+S
+.184314 .309804 .435294 rg
+n 480 95 m 482.3365 100.5264 l 477.6635 100.5264 l h
+f*
+.070588 .12549 .180392 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 493.8462 116 Tm (script = false) Tj T* ET
+.184314 .309804 .435294 RG
+1 w
+n 345 75 m 375 75 l 375 150 l 415 150 l
+S
+.184314 .309804 .435294 rg
+n 415 150 m 409.4736 152.3365 l 409.4736 147.6635 l h
+f*
+.070588 .12549 .180392 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 375.62 112 Tm (roles / rules) Tj T* ET
+.184314 .309804 .435294 RG
+1 w
+n 665 250 m 665 200 l
+S
+.184314 .309804 .435294 rg
+n 665 200 m 667.3365 205.5264 l 662.6635 205.5264 l h
+f*
+.070588 .12549 .180392 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 679.5762 226 Tm (configure) Tj T* ET
+.184314 .309804 .435294 RG
+1 w
+n 600 170 m 545 170 l
+S
+.184314 .309804 .435294 rg
+n 545 170 m 550.5264 167.6635 l 550.5264 172.3365 l h
+f*
+.070588 .12549 .180392 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 571.8737 176 Tm (rules) Tj T* ET
+.184314 .309804 .435294 RG
+1 w
+n 665 140 m 665 95 l
+S
+.184314 .309804 .435294 rg
+n 665 95 m 667.3365 100.5264 l 662.6635 100.5264 l h
+f*
+.070588 .12549 .180392 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 683.0412 116 Tm (verify) Tj T* ET
+.184314 .309804 .435294 RG
+1 w
+n 600 72 m 545 72 l
+S
+.184314 .309804 .435294 rg
+n 545 72 m 550.5264 69.66349 l 550.5264 74.33651 l h
+f*
+Q
+ 
+
+Q
+
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+362 491.5756 357 14.9 re
+f*
+0 0 0 rg
+BT
+/F1-0 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 366.9 495.7706 Tm
+(01 October 2026) Tj
+T*
+ET
+BT
+1 0 0 1 366.9 479.2706 Tm
+(SWTID\0552026\0554457) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font 11 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1842
+>>
+stream
+Gatm<D0+Dj&H9tYfM=H%6\o<C\+C=[UmFin["6MN@AY8c!U^h`8oeVErN5,sge/5>jb??/<n?\RT1>ri#^H+fk's`?poo:L>6;`u`>V;"%:O5edm`RmMj."lIHUj0Y!;.CE<Zp2'N/0*]009_E2K4NFmB,Q>-g*tGT\ok?I2]p/dYe#K^\UsA!rML#:ruac$7Ai$'WsWYkS]dGM;X)r#EEE^$[9WLI33%@3^Npa;YT%&H;V[2Q[DN"lTFc^'C!8LsZJ4lZ]H\TN8I2cRdb!Z/@eKJR4"Le=:YdFeI?f=$%lI92$8lTfqkiprTpsDm<R1m\G+`HAh_@-6nZ><Pl)+*d[fi4OemGT10b$'"l(@H"!4bX_E!dqGf9OGF;oL9d=8p]T4&?\F>83*tjn,l#[89m_Cg=-/%hj'()&U$4_pHK%_sg7B/c;)C2h$MC,<U1m&,Y(;lT!>npgQD$A6E`N2'5:J&K:qu?u1.a72N]JlTAG(<Sq'UmNP=I^etL'P#m7e_7!"n4'keo"mA`%FoE`?9EJjQYG=`d")G0r.kbOl'`J&c:aU._S=HHAC`g$%B[+?,N:mL\jgel"!!H^aJtHkD%7)$ObSarod?]IMnDhAXg<fnU@)W&N0@?@qCTOM4Jb%JSS`83J*m&b+",l@gUPK7=SZ3Y*k>t<?b_mTVdSI)lT"C-:@,3KG?MEI^S`.YZ_5,?e>B_ZC#+s'o^.UP.Y3L%>pPOC:4Xj$=QudJO^aR1!GXDDQ2..A_Tt@@-@l+@&Jddh3[d'mI]oFc:KnJk;)%b6I\q%q[kQ9n`1a"+3./6McdX)\;$A#$MYI(%3=")JKnAi,[`c^?RNNH>EB(>(RYCPEb5Z8+UOg7R04L$-4YmN0q(^XL,!UKglX>$TOtmaFa3I2/q2<tqjpSka(&`EM`5Un272tog$VMI"BN6uO`R(bi"fCq"+Q.q0iKcD=NXIY"=)c-Wkn^t-_dUb<OFO,@_o",/XY>"80q%_I6POKkJ[9j!6s^a7JUh\eY7jtRP:jgP<n*RIF!e[]A4F]M^p:EN=+p@C#Daq.[+*e^&t2NHH<iIa)9sB>]q?h<LKmM`j8*8h@sStDPat6;H`$BUH@P[/WK=#4[\b?X<)[$:-6%=FC6kr/h^&XU%o1GhI7"#RB0+?H<31<83d"oC<!u&7,fuZ(iX"`F)8U5MX9[9gfi.?SNDj4-RmA]bJ&iurYsS%7i$(VbDtg?n>kn(ZJoC,\bUq:!g>)&be^VOpDoBVmW-JsG+<]4)h;TGl3$8Zpl;n!3&6'7mV;Z:0RLNtdt&NO8#s**DVR87Q>Xuum-%is6*`YmedKfCm7\;@F@/mUs7e`R/.8=n5jal629rDDd4r)e&>ff\!oPbO/B1%-K$Iu+5On+mUFD-dhjo$SE:u$H8oN&h(BeG*pieiamC9[<],FlRkdq]Q=juhQoU"XnHZ)CbDQ.i&Akd[:g4g0bRX8\Z%lDueGl6GT.^C>S^]V%+W>,SL?Q'/Q[*Q>:;>`YOiU53QLMsk63fSmmC<Y)j?+(L_hm)bYhro.aUoQ#[Hs_G=,qQ0Z\YaK75F_*t1#&W(H)KCjr+-B#0#$C7\2h`/-9PK[S%Q68\2IDqjeYi16g+o[D@uDq=iWn)lp$MCa0PXujXXLJYY?(qab]Dj!BfrTj-KS^6"WI`NK6m1pV!s2pp&?i_P+[\hjLNb/RbZ<egkn"0:M#Z`TYL5JZnMt9"g@f&V!pI[8^pg@AQDlf(q\/7B+^uO^Dk2<,9CHa$Qq!aP]$ejD&3^.b,qH\tN1iCrAs'YFP<I5/X%Beqf#D/5d*=1I=Qb;L]dr]eXrJ7eXQ`&%)<:dEO(1~>
+endstream
+endobj
+11 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font 11 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1455
+>>
+stream
+GatUs?Z4XZ'YrW'.F'0/8fEHrTREQARl4!Q*?a/SUat%O`N9e0gO]%Phd\$!>"1QLW[PlIcekA@E<q6m8,Rk&!SkoXnhU:Z_0cP7%UtfTLV*B8Y;9'>)(3f"NIkij:N-OkKRQ3OT&F"](Dd7'QtIfu!^b\pM0$NpF8@#)2nFV2H7];q<i?ub/#k&)>RP$F1KW`nItIJDVtqe?*RlHF0T+oL&:/?PLgUpWL1(L/^X9.<m2IB+LdL<g+kiYN/3ghRg\Vt:,GQKE'-Mo=[l&Ebg\En1>kRN[Za8SF3pB<8&]nr8G#AVaI72712b].;bL&ljrTGIEk+&Po-.V&!l'qk?7t2\P*!muYA+3\prFaCHmS"@aEVQVL`j\Q)^QX6*W&[&;^H4-iqW9:<CJ!nkkmW5r):ohDp^adGL@O=d@.4;?$X53ajZ/,:N2:elFUI$iL<b/V"$!O;0mnuY=:WJ6@nLC"4(k(f_XR2>pjCLo`p[:J/37u2&hVB^C/2S].8gZ9ql`^^7&6+9W0rI-;J2L7)#G-ER]Rm^G]%q4CM%&*>X4(BPYF/:3pfPRi=`#XVACr6*-6B+s.U)F0_98,--%1g@BMmHXLJcT'+0sYDYA6rR*%"`?:.=:"oOVm?]Q"o)bkC^EZj/nh(?qB$,33h[.p3,i4A'ZcoEYV1`Vit@$RG\O/<e8Lh:JG'!M,76>/3l.c@8Fg\)+bXjaOfaXOcNl-4Hn!KSR0;)?1!/38^\#.Oki^FEj9ML1>)[2(i6<4]4=A'J&A@>:K=NGKoCMp4Yi,)$F]/\4u%]rsQMO=BOdN[9YJK?(lhYYJllRF<3N",uC3Yd^f'dhK.fn,gg2.e:VXL>V"="%kqc:<OrA[B==+If2-ic*Xhgmf=7!\ZZuj!$k<CWeq_rBe=M@T`PN4&eA:n(VR=)(Ypbf@@.T-o530CN08lZfN9>2W?2H&Y'>t\8c(n2a&7,XN(!_];&6]X:Y9X)^(Q-+mU"0rjB*^W>>5.gg3CIG^5V4HZ%U6@?Yf=fLB/s(=Yh#!,?qM.H\8b:QS__Zc%du%K@r_*s.)eU9<n4r4/uTARh9@=3W*%"C&g`50'H(k@#\R?j]SLc'O7NC/q^8l(=^0O5Q&Xt\\:$['*T$;\$-HlC[do_;ns`sT&g?Q0BJLY8dSje-t,aiDn/;o$s3b_HT.<&@)7!;pkoJc_(&7'ep1ZcO'UleI\&$Cdk>@M&@VJ&Pg$n>\<2H4T+.j3nC:52R<%tF-V7Q/XQKJ+^X>ab.t5-8)>1"D*:2gNW1(W?DQZL03?49)EG7gG[t0L\8b[Y#m8s#TC\I`i#/(h:r<qK:V.fAd$YZa;!ZJe!!M/d-f,Ti;_eZ,J&k4`)Ilmlr*,:/nN.K9sg9nK&]OZ#Z;D&'KZ:hCIPJ(0p'f1CiJ]ZHn4bX#ur@JI*jm<JRL$uS6S[ht\fd&6*k7M3Cp-1!NnsT~>
+endstream
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000126 00000 n 
+0000000175 00000 n 
+0000000418 00000 n 
+0000010361 00000 n 
+0000010468 00000 n 
+0000010575 00000 n 
+0000010687 00000 n 
+0000010888 00000 n 
+0000012823 00000 n 
+0000012865 00000 n 
+0000013067 00000 n 
+trailer
+<<
+/Size 14
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+14615
+%%EOF

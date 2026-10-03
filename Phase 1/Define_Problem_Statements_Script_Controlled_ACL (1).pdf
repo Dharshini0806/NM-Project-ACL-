@@ -1,0 +1,504 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 11566
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 14 Tf 16.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 248.2318 781.8898 Tm (Ideation Phase) Tj T* ET
+BT 1 0 0 1 194.1708 761.8898 Tm (Define the Problem Statements) Tj T* ET
+0 0 0 RG
+1 w
+n 50 714.8898 495.2756 17 re S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 55 719.8898 Tm (Date) Tj T* ET
+n 297.6378 731.8898 m 297.6378 714.8898 l S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 302.6378 719.8898 Tm (01 October 2026) Tj T* ET
+n 50 697.8898 495.2756 17 re S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 55 702.8898 Tm (Team ID) Tj T* ET
+n 297.6378 714.8898 m 297.6378 697.8898 l S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 302.6378 702.8898 Tm  T* ET
+n 50 680.8898 495.2756 17 re S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 55 685.8898 Tm (Project Name) Tj T* ET
+n 297.6378 697.8898 m 297.6378 680.8898 l S
+BT /F1 7.5 Tf 9 TL ET
+0 0 0 rg
+BT 1 0 0 1 302.6378 686.8898 Tm (Script-Controlled ACL \226 Restrict Record Access Based on Field Value) Tj T* ET
+n 50 663.8898 495.2756 17 re S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 55 668.8898 Tm (Maximum Marks) Tj T* ET
+n 297.6378 680.8898 m 297.6378 663.8898 l S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 302.6378 668.8898 Tm (2 Marks) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 635.8898 Tm (Script-Controlled ACL Problem Statement Template:) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 617.8898 Tm (Create a problem statement to understand the user's point of view on record access. The Script-Controlled ACL) Tj T* ET
+BT 1 0 0 1 50 603.8898 Tm (Problem Statement template helps you focus on what matters when securing the Institution Details) Tj T* ET
+BT 1 0 0 1 50 589.8898 Tm (\(u_institution_details\) records, so that every user sees only the records they are meant to see.) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 569.8898 Tm (A well-articulated problem statement allows you and your team to design the right Script-Controlled ACL. The) Tj T* ET
+BT 1 0 0 1 50 555.8898 Tm (ACL uses a custom script that checks field values \(such as Branch\) and user conditions \(such as roles\) before) Tj T* ET
+BT 1 0 0 1 50 541.8898 Tm (granting access, and users can access the record only when the ACL script evaluates to true.) Tj T* ET
+.247059 .498039 .960784 rg
+n 50 483.8898 128 35 re f*
+.862745 .909804 .960784 rg
+n 178 483.8898 58 35 re f*
+.933333 .933333 .933333 rg
+n 236 483.8898 309.2756 35 re f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 147.989 497.8898 Tm (I am) Tj T* ET
+.333333 .333333 .333333 rg
+BT /F3 4.8 Tf 5.76 TL ET
+BT 1 0 0 1 181 512.8898 Tm (Describe the user with) Tj T* ET
+BT 1 0 0 1 181 507.4898 Tm (3-4 key traits - role,) Tj T* ET
+BT 1 0 0 1 181 502.0898 Tm (branch, access level.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 246 504.3898 Tm (A ServiceNow administrator or EEE branch user with a custom role \(bb1 to bb4\)) Tj T* ET
+BT 1 0 0 1 246 494.3898 Tm (working with student records) Tj T* ET
+.247059 .498039 .960784 rg
+n 50 447.8898 128 35 re f*
+.862745 .909804 .960784 rg
+n 178 447.8898 58 35 re f*
+.933333 .933333 .933333 rg
+n 236 447.8898 309.2756 35 re f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 107.487 461.8898 Tm (I'm trying to) Tj T* ET
+.333333 .333333 .333333 rg
+BT /F3 4.8 Tf 5.76 TL ET
+BT 1 0 0 1 181 476.8898 Tm (List the record access) Tj T* ET
+BT 1 0 0 1 181 471.4898 Tm (they need - view,) Tj T* ET
+BT 1 0 0 1 181 466.0898 Tm (create, edit or delete.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 246 468.3898 Tm (Access Institution Details records only when the ACL script evaluates to true for) Tj T* ET
+BT 1 0 0 1 246 458.3898 Tm (their role and Branch value) Tj T* ET
+.247059 .498039 .960784 rg
+n 50 411.8898 128 35 re f*
+.862745 .909804 .960784 rg
+n 178 411.8898 58 35 re f*
+.933333 .933333 .933333 rg
+n 236 411.8898 309.2756 35 re f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 152.895 425.8898 Tm (but) Tj T* ET
+.333333 .333333 .333333 rg
+BT /F3 4.8 Tf 5.76 TL ET
+BT 1 0 0 1 181 440.8898 Tm (Describe what blocks or) Tj T* ET
+BT 1 0 0 1 181 435.4898 Tm (exposes access - what) Tj T* ET
+BT 1 0 0 1 181 430.0898 Tm (bothers them most?) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 246 432.3898 Tm (Users from other branches can see or change records, or valid users are blocked) Tj T* ET
+BT 1 0 0 1 246 422.3898 Tm (from them) Tj T* ET
+.247059 .498039 .960784 rg
+n 50 375.8898 128 35 re f*
+.862745 .909804 .960784 rg
+n 178 375.8898 58 35 re f*
+.933333 .933333 .933333 rg
+n 236 375.8898 309.2756 35 re f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 125.978 389.8898 Tm (because) Tj T* ET
+.333333 .333333 .333333 rg
+BT /F3 4.8 Tf 5.76 TL ET
+BT 1 0 0 1 181 404.8898 Tm (Root cause - why the) Tj T* ET
+BT 1 0 0 1 181 399.4898 Tm (ACL script or role setup) Tj T* ET
+BT 1 0 0 1 181 394.0898 Tm (fails to control access.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 246 391.3898 Tm (The ACL script does not check the Branch field together with the user's roles) Tj T* ET
+.247059 .498039 .960784 rg
+n 50 339.8898 128 35 re f*
+.862745 .909804 .960784 rg
+n 178 339.8898 58 35 re f*
+.933333 .933333 .933333 rg
+n 236 339.8898 309.2756 35 re f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 101.525 359.8898 Tm (which makes) Tj T* ET
+BT 1 0 0 1 132.094 346.8898 Tm (me feel) Tj T* ET
+.333333 .333333 .333333 rg
+BT /F3 4.8 Tf 5.76 TL ET
+BT 1 0 0 1 181 368.8898 Tm (Describe how the) Tj T* ET
+BT 1 0 0 1 181 363.4898 Tm (access problem impacts) Tj T* ET
+BT 1 0 0 1 181 358.0898 Tm (them emotionally.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 246 355.3898 Tm (Worried about data exposure and frustrated when access does not work) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 325.8898 Tm (Reference: ) Tj T* ET
+.066667 .333333 .8 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 101.69 325.8898 Tm (https://miro.com/templates/customer-problem-statement/) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 303.8898 Tm (Example:) Tj T* ET
+.545098 .737255 .866667 rg
+n 50 239.8898 99.05512 56 re f*
+1 1 1 rg
+BT /F4 5 Tf 6 TL ET
+BT 1 0 0 1 53 288.8898 Tm (I am) Tj T* ET
+1 1 1 rg
+n 65 259.8898 69.05512 24 re f*
+0 0 0 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 75.98656 273.9898 Tm (an EEE branch) Tj T* ET
+BT 1 0 0 1 92.72006 265.5898 Tm (user) Tj T* ET
+.356863 .607843 .788235 rg
+n 149.0551 239.8898 99.05512 56 re f*
+1 1 1 rg
+BT /F4 5 Tf 6 TL ET
+BT 1 0 0 1 152.0551 288.8898 Tm (I'm trying to) Tj T* ET
+1 1 1 rg
+n 164.0551 253.8898 69.05512 24 re f*
+0 0 0 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 176.2142 267.9898 Tm (view only EEE) Tj T* ET
+BT 1 0 0 1 175.2412 259.5898 Tm (branch records) Tj T* ET
+.976471 .639216 .007843 rg
+n 248.1102 239.8898 99.05512 56 re f*
+1 1 1 rg
+BT /F4 5 Tf 6 TL ET
+BT 1 0 0 1 251.1102 288.8898 Tm (But) Tj T* ET
+1 1 1 rg
+n 263.1102 259.8898 69.05512 24 re f*
+0 0 0 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 273.6243 273.9898 Tm (other branches') Tj T* ET
+BT 1 0 0 1 269.2423 265.5898 Tm (records are visible) Tj T* ET
+.015686 .011765 .227451 rg
+n 347.1654 239.8898 99.05512 56 re f*
+1 1 1 rg
+BT /F4 5 Tf 6 TL ET
+BT 1 0 0 1 350.1654 288.8898 Tm (Because) Tj T* ET
+1 1 1 rg
+n 362.1654 255.8898 69.05512 28 re f*
+0 0 0 rg
+BT /F1 5.5 Tf 6.6 TL ET
+BT 1 0 0 1 371.7807 274.8398 Tm (The ACL script does) Tj T* ET
+BT 1 0 0 1 380.3359 268.2398 Tm (not check the) Tj T* ET
+BT 1 0 0 1 382.1729 261.6398 Tm (Branch field) Tj T* ET
+.290196 .290196 .368627 rg
+n 446.2205 239.8898 99.05512 56 re f*
+1 1 1 rg
+BT /F4 5 Tf 6 TL ET
+BT 1 0 0 1 449.2205 288.8898 Tm (Which makes me feel) Tj T* ET
+.972549 .635294 .352941 rg
+n 461.2205 253.8898 69.05512 24 re f*
+0 0 0 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 483.498 263.7898 Tm (Worried) Tj T* ET
+q
+1 0 0 1 50 85.58976 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 109.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 20.7 Tm /F2 7.8 Tf 9.5 TL (Problem) Tj T* (Statement) Tj T* (\(PS\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 128.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 7.8 Tf 9.5 TL (I am \(Customer\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136 128.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 7.8 Tf 9.5 TL (I'm trying to) Tj T* ET
+Q
+Q
+q
+1 0 0 1 232 128.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 7.8 Tf 9.5 TL (But) Tj T* ET
+Q
+Q
+q
+1 0 0 1 328 128.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 7.8 Tf 9.5 TL (Because) Tj T* ET
+Q
+Q
+q
+1 0 0 1 432 119.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 11.2 Tm /F2 7.8 Tf 9.5 TL (Which makes) Tj T* (me feel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F1 7.3 Tf 8.8 TL (PS-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 45.5 Tm /F1 7.3 Tf 8.8 TL (A ServiceNow system) Tj T* (administrator) Tj T* (responsible for) Tj T* (protecting student) Tj T* (data in the Institution) Tj T* (Details table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136 69.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.9 Tm /F1 7.3 Tf 8.8 TL (Make sure users can view) Tj T* (only the records they are) Tj T* (meant to see, such as only) Tj T* (EEE branch records) Tj T* ET
+Q
+Q
+q
+1 0 0 1 232 69.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.9 Tm /F1 7.3 Tf 8.8 TL (Standard role checks alone) Tj T* (let users see records from) Tj T* (other branches \(ECE,) Tj T* (CSE\) as well) Tj T* ET
+Q
+Q
+q
+1 0 0 1 328 60.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36.7 Tm /F1 7.3 Tf 8.8 TL (The ACL does not check the) Tj T* (record's Branch field together) Tj T* (with the user's role, so there) Tj T* (is no script deciding true or) Tj T* (false) Tj T* ET
+Q
+Q
+q
+1 0 0 1 432 60.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36.7 Tm /F1 7.3 Tf 8.8 TL (Worried that) Tj T* (sensitive student) Tj T* (data is exposed to) Tj T* (unauthorised) Tj T* (users) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 38.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F1 7.3 Tf 8.8 TL (PS-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 11.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.9 Tm /F1 7.3 Tf 8.8 TL (An EEE branch staff) Tj T* (member \(with the bb1) Tj T* (role\) who manages) Tj T* (student records) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136 11.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.9 Tm /F1 7.3 Tf 8.8 TL (View and manage only) Tj T* (EEE branch records, and) Tj T* (create, edit or delete them) Tj T* (when permitted) Tj T* ET
+Q
+Q
+q
+1 0 0 1 232 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36.7 Tm /F1 7.3 Tf 8.8 TL (Records are hidden or) Tj T* (actions like New, edit and) Tj T* (delete are blocked, or other) Tj T* (users see more than they) Tj T* (should) Tj T* ET
+Q
+Q
+q
+1 0 0 1 328 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36.7 Tm /F1 7.3 Tf 8.8 TL (Read, Create, Write and) Tj T* (Delete ACLs are not) Tj T* (separated by role \(bb1 to) Tj T* (bb4\) and the script does not) Tj T* (return true for the right users) Tj T* ET
+Q
+Q
+q
+1 0 0 1 432 11.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.9 Tm /F1 7.3 Tf 8.8 TL (Frustrated and) Tj T* (unsure whether) Tj T* (access rules are) Tj T* (working correctly) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+1 w
+n 0 140.3 m 495 140.3 l S
+n 0 0 m 495 0 l S
+n 0 0 m 0 140.3 l S
+n 495 0 m 495 140.3 l S
+n 0 106.8 m 495 106.8 l S
+n 0 49 m 495 49 l S
+n 52 0 m 52 140.3 l S
+n 132 0 m 132 140.3 l S
+n 228 0 m 228 140.3 l S
+n 324 0 m 324 140.3 l S
+n 428 0 m 428 140.3 l S
+Q
+Q
+Q
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 67.58976 Tm (Problem Statement Summary:) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 55.58976 Tm (How might we use a script-controlled ACL on the u_institution_details table so that access to a record is granted only when the) Tj T* ET
+BT 1 0 0 1 50 44.58976 Tm (script, which checks the Branch field value and the user's roles, evaluates to true?) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 302.6 702.8898 Tm
+(SWTID\0552026\0554457) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000426 00000 n 
+0000012045 00000 n 
+0000012152 00000 n 
+0000012259 00000 n 
+0000012371 00000 n 
+0000012486 00000 n 
+trailer
+<<
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+12592
+%%EOF

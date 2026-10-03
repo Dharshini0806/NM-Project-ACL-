@@ -1,0 +1,533 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6545
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 46 513.2756 cm
+q
+BT 1 0 0 1 0 22 Tm 297.1399 0 Td 18 TL /F2 14 Tf 0 0 0 rg (Project Design Phase-II) Tj  T* -99.14802 0 Td (Solution Requirements \(Functional & Non-functional\)) Tj T* -197.9919 0 Td ET
+Q
+Q
+q
+1 0 0 1 46 501.2756 cm
+Q
+q
+1 0 0 1 120.9449 435.2756 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246 51.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (31 January 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Team ID) Tj T* ET
+Q
+Q
+BT 1 0 0 1 246 37.25 Tm  T* ET
+q
+1 0 0 1 6 18.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Project Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246 18.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Script-Controlled ACL \226 Restrict Record Access Based on Field Value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Maximum Marks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246 2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (4 Marks) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+1 w
+n 0 66 m 600 66 l S
+n 0 0 m 600 0 l S
+n 0 0 m 0 66 l S
+n 600 0 m 600 66 l S
+n 0 49.5 m 600 49.5 l S
+n 0 33 m 600 33 l S
+n 0 16.5 m 600 16.5 l S
+n 240 0 m 240 66 l S
+Q
+Q
+Q
+q
+1 0 0 1 46 408.2756 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Functional Requirements:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 389.2756 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Following are the functional requirements of the proposed solution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 383.2756 cm
+Q
+q
+1 0 0 1 60.94488 85.27559 cm
+q
+.909804 .909804 .909804 rg
+n 0 298 720 -18.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 282.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (FR No.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 282.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Functional Requirement \(Epic\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 282.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Sub Requirement \(Story / Sub-Task\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 264 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (FR-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 264 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F1 9.5 Tf 0 0 0 rg (User & Role Management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 264 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Create a test user \(EEE User\) in ServiceNow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 251.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Create custom roles bb1, bb2, bb3 and bb4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 239 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Assign all roles to the EEE User) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 220.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (FR-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 220.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Custom Table Creation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 220.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Create the table Institution Details \(u_institution_details\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 195.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 9.5 Tf 12.5 TL (Add fields: Student Roll Number, Student Name, Faculty Name, Branch \(ECE, EEE, CSE\), Email, Phone) Tj T* (Number, Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Create sample records with different branch values) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 164.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (FR-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 164.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Read ACL \(Script-Controlled\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 164.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Create a record-level Read ACL with Advanced = true and role bb1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 152 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Add data condition Branch is EEE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 139.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Add script that returns true for admin or bb1, otherwise false) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 127 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Show only EEE records to bb1 users; show all records to admin; show no records to users without the role) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 108.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (FR-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 108.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Create ACL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 108.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Create a Create ACL requiring role bb2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Display the New button only to users with the required roles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 77.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (FR-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 77.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Write ACL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 77.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Create a Write ACL requiring role bb3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Allow users with bb1, bb2 and bb3 to edit EEE branch records) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 46.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (FR-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 46.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Delete ACL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 46.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Create a Delete ACL requiring role bb4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Allow users with bb1 to bb4 to delete EEE branch records) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (FR-7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 15.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Access Verification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 15.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Impersonate the EEE User and the Admin to open the Institution Details list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Confirm access is granted only when the ACL script evaluates to true) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.8 w
+n 0 298 m 720 298 l S
+n 0 0 m 720 0 l S
+n 0 0 m 0 298 l S
+n 720 0 m 720 298 l S
+n 0 279.5 m 720 279.5 l S
+n 0 236 m 720 236 l S
+n 0 180 m 720 180 l S
+n 0 124 m 720 124 l S
+n 0 93 m 720 93 l S
+n 0 62 m 720 62 l S
+n 0 31 m 720 31 l S
+n 60 0 m 60 298 l S
+n 250 0 m 250 298 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+362 485.5756 357 14.9 re
+f*
+0 0 0 rg
+BT
+/F1-0 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 366.9 489.7706 Tm
+(01 October 2026) Tj
+T*
+ET
+BT
+1 0 0 1 366.9 473.2706 Tm
+(SWTID\0552026\0554457) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font 11 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1381
+>>
+stream
+GatU3;/b2I&:Vs/3:nZa&l"N88)CJ*2Ka`a?*H@BqI3i?UpJ=+-=)dliIATe.EQR6.tJ$P0l]>4na=$XN_U^o:ZDD@)h>D=q"6Or,_c%,Ot=a`rW/nfZ`e"5UR@)b+(\;qSWE"<D8^ljYKl?Jd[;%C3QsEm/;5?hCGM5<A*8&.?7fqq>-9+a0Z1(Of=4+\c#4CPrrVfDcJqFk*.(ENB>%oZ<sg*7np7?i:cg:2^bgXK,KSnlkU6*)[IbqQXgZA["\+@&ks`9%N$mEbT5KYKBTcpq!M_W4Y.Ft68N\H]%)2\;QmA4q@i*@3)T,QQd#)_SI!l]PLsj>2IL"==P%)iI:^bUFa\s*8R@:s_3Z[F/\7LHnm15=Dkq1/8]6f=1e9pSpSW3o;CKDq1gJ>NokB;$6o]Bklktd$sE5CqU5;@H2B:\g\T5lVa!mN%(\bTW`abm+!<4XiV*#g6XMMg8n[Am;DcNI`LMs1T:;*XUan'hiW[&B=m7&Z(iQJn=8E2pE*mCgg^'FSYreTdUjLZ#]od29AjdV:'D(D1mTfQ"N([07?>%3dJS"YpOjmSnC+X.\Ha/(jh9Ce0[@gf(M?N$^aiEnUol@+4jPf(rO.PH<Yh>+EO`kNY[t,77%RE!G(tb,*N4+oJR"5`r*&i#kQM6WRL0NCIOM&jFbfoHj&<"k(ha9[pr"%m[<TUO&k(8[4',)PsVVdV`:i4u-!!9b3iG28\@C>U'(IDs;)KL-K',SLuOD#:9R%3j,Hf>Z&#2XAEr=,%n1P=g"/tOhmo=LIuCbrKgM'0#;hsX,KXM'^I9-;.!H7Zo^Xk?UF^#e6`r=gn,\KZJpoT':1bg6-?%'Ka"K<K?U##g4[A%l:LH\ndUk>UFQq`_Bj9$#c,.d'lC'!/=A3%\EMjk2AmrgF1X;,=HR6q/5[7dG=QdXES%Hi+)']n>gE12)eesfC4f,WgFTTGZof?=RKKX"&7rnYd'O86K2SkWr6J4-=!h*,j1=X;_IH(!0Zsro]qj6g#]:-uSG1H6DZ'Zm=Deum#?k?`Y<aR;Ffh&3UC#l?'iG;)6Y_hp7OmjoC7sBANtgABpbgF4UK77m"C4YmETi$FA((n9&j6_!NsmV#L"fI2?2o"'oD@nUf=F&/hJ&>V`3:3T%_JF#mn<A[]FX,Ehb",#d+dQrNtZVO^h=J!oO^\tm@Hejjl)n#bQu+_A.fq3q,J.V@d,53Hd>7<"cH^?USN!%N-\\32;]]I.s60qP-&;T`X3/^anCNRL#QJ3pSH!Im*E#:JDHD2"<7B)+KPb%qjk6Z`^c2%Xg%i#dn)93jDNL>o@B74F]/6DY*&U(]2QZ(L0qC[CspH(ZB^K67S8R])i"f]O7/Ft60u;rnrNbPBE&'Y)8iB~>
+endstream
+endobj
+11 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000119 00000 n 
+0000000168 00000 n 
+0000000411 00000 n 
+0000007008 00000 n 
+0000007115 00000 n 
+0000007222 00000 n 
+0000007334 00000 n 
+0000007535 00000 n 
+0000009009 00000 n 
+trailer
+<<
+/Size 12
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+9051
+%%EOF

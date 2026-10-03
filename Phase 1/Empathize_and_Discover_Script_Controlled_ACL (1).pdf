@@ -1,0 +1,327 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 11 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6161
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 14 Tf 16.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 248.2318 781.8898 Tm (Ideation Phase) Tj T* ET
+BT 1 0 0 1 224.1168 761.8898 Tm (Empathize & Discover) Tj T* ET
+0 0 0 RG
+1 w
+n 50 714.8898 495.2756 17 re S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 55 719.8898 Tm (Date) Tj T* ET
+n 297.6378 731.8898 m 297.6378 714.8898 l S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 302.6378 719.8898 Tm (01 October 2026) Tj T* ET
+n 50 697.8898 495.2756 17 re S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 55 702.8898 Tm (Team ID) Tj T* ET
+n 297.6378 714.8898 m 297.6378 697.8898 l S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 302.6378 702.8898 Tm  T* ET
+n 50 680.8898 495.2756 17 re S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 55 685.8898 Tm (Project Name) Tj T* ET
+n 297.6378 697.8898 m 297.6378 680.8898 l S
+BT /F1 7.5 Tf 9 TL ET
+0 0 0 rg
+BT 1 0 0 1 302.6378 686.8898 Tm (Script-Controlled ACL \226 Restrict Record Access Based on Field Value) Tj T* ET
+n 50 663.8898 495.2756 17 re S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 55 668.8898 Tm (Maximum Marks) Tj T* ET
+n 297.6378 680.8898 m 297.6378 663.8898 l S
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 302.6378 668.8898 Tm (4 Marks) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 635.8898 Tm (Empathy Map Canvas:) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 617.8898 Tm (An empathy map is a simple, easy-to-digest visual that captures knowledge about a user's behaviours and) Tj T* ET
+BT 1 0 0 1 50 603.8898 Tm (attitudes while working with record access in ServiceNow.) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 581.8898 Tm (It is a useful tool that helps the team better understand the users of the Script-Controlled ACL, such as) Tj T* ET
+BT 1 0 0 1 50 567.8898 Tm (administrators and EEE branch users. Creating an effective solution requires understanding the true problem) Tj T* ET
+BT 1 0 0 1 50 553.8898 Tm (and the person who is experiencing it. The exercise of creating the map helps participants consider things from) Tj T* ET
+BT 1 0 0 1 50 539.8898 Tm (the user's perspective along with their goals and challenges in restricting record access based on field values.) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 515.8898 Tm (Example:) Tj T* ET
+0 0 0 rg
+BT /F3 12 Tf 14.4 TL ET
+BT 1 0 0 1 188.822 493.8898 Tm (Empathy Map \226 Script-Controlled ACL) Tj T* ET
+0 0 0 RG
+.6 w
+n 188.822 491.8898 m 406.178 491.8898 l S
+.266667 .266667 .266667 RG
+1 w
+n 60 183.8898 475 300 re S
+.8 w
+n 60 483.8898 m 271.9914 387.9358 l S
+n 535 483.8898 m 323.0086 387.9358 l S
+n 60 268.8898 m 271.9914 364.8438 l S
+n 535 268.8898 m 323.0086 364.8438 l S
+1 1 1 rg
+n
+325.5 376.3898 m
+325.5 391.8537 312.964 404.3898 297.5 404.3898 c
+282.036 404.3898 269.5 391.8537 269.5 376.3898 c
+269.5 360.9258 282.036 348.3898 297.5 348.3898 c
+312.964 348.3898 325.5 360.9258 325.5 376.3898 c
+B*
+.2 .2 .2 rg
+n
+304.5 386.1898 m
+304.5 390.0558 301.366 393.1898 297.5 393.1898 c
+293.634 393.1898 290.5 390.0558 290.5 386.1898 c
+290.5 382.3238 293.634 379.1898 297.5 379.1898 c
+301.366 379.1898 304.5 382.3238 304.5 386.1898 c
+f*
+n
+310.1 366.5898 m
+310.1 372.7754 304.4588 377.7898 297.5 377.7898 c
+290.5412 377.7898 284.9 372.7754 284.9 366.5898 c
+284.9 360.4042 290.5412 355.3898 297.5 355.3898 c
+304.4588 355.3898 310.1 360.4042 310.1 366.5898 c
+f*
+.866667 .866667 .866667 RG
+.5 w
+n 60 268.8898 m 535 268.8898 l S
+n 297.5 183.8898 m 297.5 268.8898 l S
+0 0 0 rg
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 232.939 463.8898 Tm (What does the user THINK AND FEEL?) Tj T* ET
+BT /F4 6.3 Tf 7.56 TL ET
+BT 1 0 0 1 244.4067 453.8898 Tm (\177 Will other branches see my records?) Tj T* ET
+BT 1 0 0 1 266.2772 445.0898 Tm (\177 Is student data safe?) Tj T* ET
+BT 1 0 0 1 258.0557 436.2898 Tm (\177 Is the script returning true?) Tj T* ET
+0 0 0 rg
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 70 388.3898 Tm (What does the user HEAR?) Tj T* ET
+BT /F4 6.3 Tf 7.56 TL ET
+BT 1 0 0 1 70 378.3898 Tm (\177 Only bb1 role users can view records) Tj T* ET
+BT 1 0 0 1 70 369.5898 Tm (\177 Branch field decides who sees what) Tj T* ET
+BT 1 0 0 1 70 360.7898 Tm (\177 Test with impersonation first) Tj T* ET
+0 0 0 rg
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 440.202 388.3898 Tm (What does the user SEE?) Tj T* ET
+BT /F4 6.3 Tf 7.56 TL ET
+BT 1 0 0 1 428.2572 378.3898 Tm (\177 Records of all branches in the list) Tj T* ET
+BT 1 0 0 1 432.1569 369.5898 Tm (\177 'No records to display' message) Tj T* ET
+BT 1 0 0 1 446.4516 360.7898 Tm (\177 Roles bb1 to bb4 assigned) Tj T* ET
+0 0 0 rg
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 240.1315 332.3898 Tm (What does the user SAY AND DO?) Tj T* ET
+BT /F4 6.3 Tf 7.56 TL ET
+BT 1 0 0 1 238.6171 322.3898 Tm (\177 Create roles bb1 to bb4 and assign them) Tj T* ET
+BT 1 0 0 1 248.2466 313.5898 Tm (\177 Add Branch is EEE data condition) Tj T* ET
+BT 1 0 0 1 249.3113 304.7898 Tm (\177 Write the script with gs.hasRole\(\)) Tj T* ET
+0 0 0 rg
+BT /F3 8 Tf 9.6 TL ET
+BT 1 0 0 1 70 252.8898 Tm (Pain) Tj T* ET
+BT /F4 6.3 Tf 7.56 TL ET
+BT 1 0 0 1 70 241.8898 Tm (\177 Other branch data exposed) Tj T* ET
+BT 1 0 0 1 70 233.0898 Tm (\177 Valid users blocked or see no records) Tj T* ET
+BT 1 0 0 1 70 224.2898 Tm (\177 Hard to debug the ACL script) Tj T* ET
+0 0 0 rg
+BT /F3 8 Tf 9.6 TL ET
+BT 1 0 0 1 507.216 252.8898 Tm (Gain) Tj T* ET
+BT /F4 6.3 Tf 7.56 TL ET
+BT 1 0 0 1 451.7247 241.8898 Tm (\177 Only EEE records visible) Tj T* ET
+BT 1 0 0 1 453.4698 233.0898 Tm (\177 Admin keeps full access) Tj T* ET
+BT 1 0 0 1 424.7418 224.2898 Tm (\177 Role-based create, edit and delete) Tj T* ET
+BT /F4 6 Tf 7.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 60 171.8898 Tm (Project: Script-Controlled ACL \226 Restrict Record Access Based on Field Value) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 471.066 171.8898 Tm (Empathize & Discover) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 50 143.8898 Tm (Reference: ) Tj T* ET
+.066667 .333333 .8 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 101.69 143.8898 Tm (https://www.mural.co/templates/empathy-map-canvas) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 302.6 702.8898 Tm
+(SWTID\0552026\0554457) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2040
+>>
+stream
+Gatm<gMYb8&:N/3bYs]>a`d,Xp8(;Xk5kd'&IZiV?>+@jZ(X^@UuV7=40t/>;DM7_AeN$)]sF4bQSW8U!6;hur1@j,hCRWPG63GNjU-ZQ)O@#R@^ud5,mY+>.jhaoH*FBRBn=q)AN3*'1?W*Ob7-SKplTB1$NDV]VKI@:^3X"KD-[m1cf"KN:[h@V$_Mjrep6!3jY^;O\!\mRI$[kkY";RL1bW84%kN4-D_`(,^u<Vcmh[O,]1!#A4YWW%?ir/^/2CV0@#EeTE/A@h1;cNfIk-QqiC;NBDId4%\C"^3G,*G/(/&(P%#7&%DC*;k1N\>OD?lq&@miJ]INCqE_J`PtMe-pjQX/6t1<^Z=+d.lM?1>Vi70-E#p@TP[6Rul=joUMfj#a$:3[rOcDkQVA2YRlNata]G$^&48mnE&/[-"i+^.tDH1SK"I'1OqaK'RU:Hpe7pC<D\tGo2@uS425,WGm:92Ta+6NC)oU:e5G+X@!I&.))eO+\g*l/UW6:`g7>mN+BNC`rJT@c5Yu1E]+iTk<YlQ@FuT@N98Hl\;-!#Mlg(*_e9a^\l8oJRWWaWA8pYhHf!gbKg-N>SI&1>=j4!1.PpEFBEGqCi3<R*RY)fbI=#1b7!`]uH[`NiR4(EQc9uVdLuriga\1har@f'?,A%@5Fp-rspG]=f7D;?R./O\sCVfH4q;5#1R]VGe=KQo?$`/%$ppu$g]Nm`1"tdCIk_"b=#,H?I>m\;,jf.u$9Htm_7P2W"c[anoJ+l3Fs2PP8,6e2]`5DYN+M8"k%]eA\V,O&apuR,>A3S6oS,mj"MWV]BT*gQ);'a1:\6C?J,LUM7X.BOO#o4t@42k'XI#4TW<8n@=,nn[Yc8R[a/QJ4GGr:_+kAWH73SadDj`PW&@P,P-fr!nS6q*keGG;'fC'@1+9XV'6O]-Rrn,:VRk/[%b0\%)4;<)I/q'3,U=g5pdB:Yeik<3fJqkMk&*jjH#!*#g"V`c5#4`t=]F&O@YcX;C<Q!BqE<[a/-04(AO:>3\*\ju?0WM^%Je5l?3:Z+MR(<IDo1$[^C9p8qN5'ot$Aq5Fb#iqU4%$LDA?p%^sBOe-,@j'TaiJ>*@F/bklW,;H32Dkb1=rgl&pXe0R-`mo#+XC]P'ocWOedc3L#"']t&X"o%/jg;l,Sc-Z0J.^:TeT9IZPBI,-ONc0%Q%*R;0\XCYam<?`*gAZ*KsTmUBltJ4!DO>Kt&l&ZmrE[J;[4`Nb6.fk7T)Z62&(C3@:B:!LEB]#TO5@\mPYggB#d@80Vg#R18(]2f,$A_usG>Isl=FfN%O]5U!TBJNMhDm'Z816@)Q"'5CT/ZquEFpYAO9gJpHebd5^8o:WqK"B-QX7iD9[fD4\QpIhfY'?nBL+f+Zu#u(L4]S&AHLe5dW`U9C[1LKp#1ghSNrs8!YE?*/HTT6p,_Y,_(ObN@"nXrijY]s7\#UIP5dm'];)(QI14O4P(Ljk-I@CnV'VFQJBKq%e5kk8uih.+%[*SA'kr7gWnni^8dJd>/2cq'Hk4%/]B",]T9A^CXrC.3eo*#$5nDBFLtN%:e19,nP_IZNo:rsc?f^6"<>!4oM7dA$J5llQPder0L=S_r6=#:KY^@G[laa+b%@22bq^W<QF6bB7-?K:h(mpCg_))K]:aG[tad_']oJ3JoRT?@:ub7P7tZ.>)VrpgA5bO8f&@<)7/_[jf"U;\E`Qi1WLkNuIXiJFEu@B`RK^q("It,L@3g4S8toZ-Q9C.m2DU[hX"-#+[Y90tNGb1atCAN2?Po;`3a=0S+WIF;/g>$aN4["RBbS.IsQ%$;[2n;09a>d-JN9TW$:W5(fjF=+TIdW"rL2R`(]$dEttPg$jjWSd\tH<*jYf*G+b.;J.8M1OjOo4`q-g",<sS7k*fTl_>@"q.,5?:c*NS/b/fP/O@BP&#YR1\^MNV`HbO0Gf#?ML)NJPYnqU]1^=Gen7\QP(e/_s7FtR7\@7oW&S"7`L)RpRg_H/VnI-h-@=k'fJKSt-l7*\Cbim!*/2-(8q`FW5;-gqi,>A5tIfZH;h^S~>
+endstream
+endobj
+13 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000433 00000 n 
+0000006646 00000 n 
+0000006753 00000 n 
+0000006860 00000 n 
+0000006972 00000 n 
+0000007091 00000 n 
+0000007207 00000 n 
+0000007409 00000 n 
+0000009542 00000 n 
+trailer
+<<
+/Size 14
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+9605
+%%EOF
